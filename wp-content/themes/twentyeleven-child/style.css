@@ -1,0 +1,26 @@
+/*
+Theme Name:     Twenty Eleven Child
+Theme URI:      http://www.huurautohuren.com
+Description:    Child theme for the Twenty Eleven theme 
+Author:         Jan
+Author URI:     http://www.huurautohuren.com
+Template:       twentyeleven
+Version:        0.1.0
+*/
+
+@import url("../twentyeleven/style.css");
+/* Structure the header area */
+#header-widget-area {
+	overflow: hidden;
+	border-bottom:1px dotted #ccc;
+	padding-bottom:5px;
+	margin-bottom:20px;
+}
+#header-widget-area .widget-area {
+	float: left;
+	margin-right: 20px;
+	width: 220px;
+}
+#header-widget-area #fourth {
+	margin-right: 0;
+}

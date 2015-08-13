@@ -1,0 +1,106 @@
+/**
+ * @package discovery
+ * @since discovery 1.0
+ *
+ */
+ 
+a.more-link {
+	background-color: #49a7a4;
+}
+.flex-caption-title { 
+	background-color: #49a7a4;
+}
+#wrap {
+	border-top: 6px solid #49a7a4;
+}
+.main-navigation li.current_page_item,  #main-navigation li.current-menu-parent{background: #49a7a4;}
+.main-navigation li.current_page_item:hover a,#main-navigation li.current_page_item:hover{background: #49a7a4;} 
+.main-navigation li.current-menu-parent:hover > a{background: #49a7a4!important;}
+.main-navigation li:hover a {background: #49a7a4;}
+.entry-header {
+	background: #49a7a4;
+}
+.main-navigation > li > a, .main-navigation li.current_page_ancestor a {
+	background-color: #49a7a4;
+}
+.main-navigation li:hover a{
+	background-color: #49a7a4;
+}
+.main-navigation ul ul li a:hover,#main-navigation ul ul li a:hover i, .main-navigation li.current-menu-parent ul.sub-menu li.current_page_item a   {  color:#49a7a4!important;}
+.main-navigation ul li a,
+.topbar_content_left .contact i {
+    color: #49a7a4;
+}
+.page-header {
+	background: #49a7a4;
+}
+.entry-title {
+	background: #49a7a4;
+}
+#secondary li a{
+	color: #49a7a4;
+}
+#sidebar-left li a{
+	color: #49a7a4;
+}
+#smoothup:hover {
+	background-color: #49a7a4; 
+}
+.featuretext_right a{
+	background-color:#49a7a4;
+}
+.thumbs-more-link a:hover{
+	background-color: #49a7a4;
+}
+.grid-more-link {
+	background-color: #49a7a4;
+}
+.testimonial-client-name a{
+	color: #49a7a4;
+}
+.recent_title a:hover{
+	color: #49a7a4;
+}
+.featuretext h4 a:hover{
+	color: #49a7a4;
+}
+.testimonial_home .testimonial .quote {
+	color: #49a7a4;
+}
+.tagcloud a {
+	background: #49a7a4;
+	border: 1px solid #49a7a4;
+}
+.genericon:hover {
+	color: #49a7a4;
+}
+.social-media li {
+	background-color: #49a7a4;
+	border: 1px solid #49a7a4;
+}
+.social-media li:hover {
+	border: 1px solid #49a7a4;
+	color: #49a7a4;
+}
+.main-small-navigation .menu li a{
+	color: #49a7a4;
+}
+.topbar_content_left:before {
+	color: #49a7a4;
+}
+.socialIcons a, .socialIcons a:visited {
+	color: #49a7a4;
+}
+.entry-content a, .entry-content a:visited, .entry-summary a, .entry-summary a:visited{
+    color: #49a7a4;
+}
+.entry-content a:hover, .entry-summary a:hover{
+    color: #666;
+}
+.grid-more-link a, .grid-more-link a:visited, .grid-more-link a hover{
+	color: #FFF;
+}
+.nav-social-btn:hover i,
+.nav-social-btn:focus i {
+	color: #49a7a4;
+}

@@ -1,0 +1,24 @@
+ == Changelog ==
+
+= Theme Name: Harrington =
+
+==== Version: 1.0.6 ====
+* Removed an error from plugin-activation.php file.
+
+==== Version: 1.0.5 ====
+* Used sane default for option panal.
+
+==== Version: 1.0.3 ====
+* Theme slug issue for different name, Fixed.
+* Custom css escaping output issue m Fixed
+
+==== Version: 1.0.2 ====
+* Theme slug issue, Fixed.
+* Plugin Territory, gallery shortcode issue, Fixed.
+* Template Tags and Hooks issue, Fixed.
+* Comment reply issue, Fixed. 
+* $content_width issue, Fixed.
+* escaping issue, Fixed.
+
+= Version: 1.0.0 =
+Harrington Theme Created On 1 Feb 2014.

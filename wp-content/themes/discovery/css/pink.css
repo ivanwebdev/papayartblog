@@ -1,0 +1,85 @@
+/**
+ * @package discovery
+ * @since discovery 1.0
+ *
+ */
+
+a.more-link,
+.flex-caption-title,
+.main-navigation li.current_page_item,  
+#main-navigation li.current-menu-parent,
+.main-navigation li.current_page_item:hover a,
+#main-navigation li.current_page_item:hover,
+.main-navigation li:hover a,
+.main-navigation > li > a, 
+.main-navigation li.current_page_ancestor a,
+.main-navigation li:hover a,
+.entry-header,
+.page-header,
+.entry-title,
+#smoothup:hover,
+.featuretext_right a,
+.thumbs-more-link a:hover,
+.grid-more-link,
+.tagcloud a,
+.social-media li {
+	background-color: #ff46a3;
+}
+
+#wrap {
+	border-top: 6px solid #ff46a3;
+}
+
+.main-navigation li.current-menu-parent:hover > a {
+	background: #ff46a3!important;
+}
+
+.section_testimonials_home {
+	background: url(../images/fclogo.png) 50% 0 repeat fixed; 
+}
+
+.tagcloud a,
+.social-media li,
+.social-media li:hover {
+	border: 1px solid #ff46a3;
+}
+
+.main-navigation ul ul li a:hover,
+#main-navigation ul ul li a:hover i, 
+.main-navigation li.current-menu-parent ul.sub-menu li.current_page_item a {  
+	color: #ff46a3!important;
+}
+
+.main-navigation ul li a,
+.topbar_content_left .contact i,
+#secondary li a,
+#sidebar-left li a,
+.testimonial-client-name a,
+.recent_title a:hover,
+.featuretext h4 a:hover,
+.testimonial-client-name,
+.testimonial_home .testimonial .quote,
+.genericon:hover,
+.social-media li:hover,
+.main-small-navigation .menu li a,
+.main-small-navigation li:hover > a,
+.main-small-navigation li.current_page_item a,
+.main-small-navigation li.current-menu-item a,
+.main-small-navigation ul ul a:hover,
+.topbar_content_left:before,
+.socialIcons a, 
+.socialIcons a:visited,
+.entry-content a, 
+.entry-content a:visited, 
+.entry-summary a, 
+.entry-summary a:visited,
+.entry-content a:hover, 
+.entry-summary a:hover,
+.nav-social-btn:hover i,
+.nav-social-btn:focus i  {
+	color: #ff46a3;
+}
+
+.grid-more-link a, .grid-more-link a:visited, .grid-more-link a hover{
+	color: #FFF;
+}
